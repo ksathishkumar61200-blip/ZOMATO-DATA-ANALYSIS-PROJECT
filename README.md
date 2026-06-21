@@ -2,6 +2,9 @@
 
 An end-to-end data analytics pipeline that extracts, processes, and visualizes global restaurant data to uncover international culinary market trends. This system couples a programmatic Python data engine with an interactive, brand-aligned executive Power BI reporting layer.
 
+<img width="1172" height="662" alt="image" src="https://github.com/user-attachments/assets/03bd78f8-8768-44a4-983e-2a0967c6a684" />
+
+
 ## 🚀 Project Overview
 The core objective of this project was to take a raw, multi-format global restaurant footprint and convert it into a clean, actionable data core. By bypassing manual spreadsheets and handling character encoding and structural missingness anomalies programmatically in Python, the final dashboard remains optimized, accurate, and completely scannable for corporate review.
 
